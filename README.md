@@ -8,7 +8,7 @@ case where a person uses someone else’s credit card for personal reasons
 while the owner and the card issuing authorities are unaware of the fact that
 the card is being used. Fraud detection involves monitoring the activities of
 populations of users in order to estimate, perceive or avoid objectionable
-behaviour, which consist of fraud, intrusion, and defaulting. This is a very
+behaviour, which consist of fraud, defaulting and intrusion. This is a very
 relevant problem that demands the attention of communities such as machine
 learning and data science where the solution to this problem can be
 automated. This problem is particularly challenging from the perspective of
