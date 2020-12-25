@@ -27,4 +27,4 @@ fraud are:
 • Support Vector Machines
 • Bayesian Networks
 • Hidden Markov Model
-• K-Nearest Neighbour
+• K-Nearest Neighbour.
