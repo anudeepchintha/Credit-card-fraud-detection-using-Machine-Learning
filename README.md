@@ -1,4 +1,4 @@
-# Credit-card-fraud-detection-using-ML.
+# Credit-card-fraud-detection-using-Machine Learning.
 'Fraud' in credit card transactions is unauthorized and unwanted usage of an
 account by someone other than the owner of that account. Necessary
 prevention measures can be taken to stop this abuse and the behaviour of such
