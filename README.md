@@ -15,7 +15,7 @@ automated. This problem is particularly challenging from the perspective of
 learning, as it is characterized by various factors such as class imbalance. The
 number of valid transactions far outnumber fraudulent ones. Also, the
 transaction patterns often change their statistical properties over the course of
-time
+time.
 
 Some of the currently used approaches to detection of such
 fraud are:
