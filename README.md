@@ -19,8 +19,8 @@ time.
 
 Some of the currently used approaches to detection of such
 fraud are:
-• Artificial Neural Network
 • Fuzzy Logic
+• Artificial Neural Network
 • Genetic Algorithm
 • Logistic Regression
 • Decision tree
