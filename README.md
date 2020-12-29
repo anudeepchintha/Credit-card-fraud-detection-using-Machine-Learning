@@ -22,7 +22,7 @@ fraud are:
 • Artificial Neural Network
 • Fuzzy Logic
 • Genetic Algorithm
-• Logistic Regression
+• Logistic Regression.
 • Decision tree
 • Support Vector Machines
 • Bayesian Networks
